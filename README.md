@@ -52,7 +52,7 @@ Dengan memahami struktur HTML, diharapkan siswa dapat mengembangkan kemampuan le
 ---
 
 ## ✍️ Identitas
-- **Nama:** Nopal Aqiransah Ridho Mustofa  
+- **Nama:** Noval Aqiransah Ridho Mustofa  
 - **Kelas:** XI RPL  
 - **Sekolah:** SMK (jurusan Rekayasa Perangkat Lunak)  
 - **Tanggal Pengumpulan:** 18 Oktober 2025  
